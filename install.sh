@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\e[1;31m[*] Menginstall MADINE FREE TOOLS V1.0...\e[0m"
+echo -e "\e[1;31m[*] Menginstall MADINE FREE TOOLS V1.1...\e[0m"
 
 rm -f /data/data/com.termux/files/usr/bin/mancer
 rm -f /data/data/com.termux/files/usr/bin/runmadinefreetools
