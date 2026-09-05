@@ -6,7 +6,7 @@ rm -f /data/data/com.termux/files/usr/bin/mancer
 rm -f /data/data/com.termux/files/usr/bin/runmadinefreetools
 rm -f /data/data/com.termux/files/usr/bin/.madine_core
 
-curl -sL "https://github.com/mango7730/MancerxDyne-Rejoin-Project/raw/main/runmadinefreetools%20(2).txt" -o runmadinefreetools
+curl -sL "https://github.com/mango7730/MancerxDyne-Rejoin-Project/raw/main/runmadinefreetools" -o runmadinefreetools
 
 chmod +x runmadinefreetools
 mv runmadinefreetools /data/data/com.termux/files/usr/bin/runmadinefreetools
